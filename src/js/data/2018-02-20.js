@@ -225,14 +225,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kang Daniel",
-    img: "SFjwJrO.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
     name: "Jackson",
     img: "a5TcqVM.jpg",
     opts: {
